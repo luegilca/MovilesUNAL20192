@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/new_game"
+        android:title="New Game"
+        android:icon="@drawable/new_game" />
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/difficulty_level"
+        android:title="Settings Menu" />
+    <item
+        android:id="@+id/restart_settings"
+        android:icon="@drawable/difficulty_level"
+        android:title="Restart Scores" />
+    <item
+        android:id="@+id/change_mode"
+        android:title="Challenge a Friend"/>
+    <item android:id="@+id/quit"
+        android:title="Quit"
+        android:icon="@drawable/quit_game" />
+</menu>

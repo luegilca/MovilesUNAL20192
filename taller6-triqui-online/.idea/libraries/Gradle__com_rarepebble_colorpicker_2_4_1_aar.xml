@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.rarepebble:colorpicker:2.4.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/colorpicker-2.4.1.aar/f22824e270e8d9faf86714f43a9c6a88/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/colorpicker-2.4.1.aar/f22824e270e8d9faf86714f43a9c6a88/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rarepebble/colorpicker/2.4.1/de7187d359d9a92c318abb8ff3c0c13209ec353a/colorpicker-2.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
